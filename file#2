@@ -1,1 +1,31 @@
-hey
+ 
+<h1>Cameron´s Favorite Pop Music</h1>
+
+<style>
+h1{ 
+color:blue;
+}
+</style>
+
+<ol>
+<li>Memories   by:Maroon 5</li>
+<li>Bad Guy  by:Billie Eilish</li>
+<li>Dancing With A Stranger    by:Sam Smith,Normani</li>
+<li>I Like Me Better  by:Lauv</li>
+<li>Whatever It Takes  by:Imagine Dragons</li>
+<li>Treat You Better  by:Shawn Mendes</li>
+</ol>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=SlPhMPnQ58k">Memories</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=DyDfgMOUjCI">Bad Guy</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=av5JD1dfj_c">Dancing With A Starnger</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=a7fzkqLozwA">I Like Me Better</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=gOsM-DYAEhY">Whatever It Takes</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=lY2yjAdbvdQ">Treat You Better</a></li>
+</ul>
